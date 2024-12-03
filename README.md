@@ -4,7 +4,7 @@
 
 大体よく使ってる言語は以下のものです。
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Sekainokanata)
 
 #使えるプログラミング言語
 ![](https://skillicons.dev/icons?i=java,python,c,c++)
