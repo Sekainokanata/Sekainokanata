@@ -1,4 +1,4 @@
-#　私のプロフィール
+# 私のプロフィール
 
 こんにちは。セカイノカナタと申します(本名：戸政諒祐)。
 
@@ -6,6 +6,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Sekainokanata)
 
-#　使えるプログラミング言語
+# 使えるプログラミング言語
 ![](https://skillicons.dev/icons?i=java,python,c,c++)
 
