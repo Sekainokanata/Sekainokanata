@@ -7,5 +7,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Sekainokanata)
 
 # 使えるプログラミング言語
-![](https://skillicons.dev/icons?i=java,python,c,c++)
+![](https://skillicons.dev/icons?i=python,c,cpp,java)
 
