@@ -10,16 +10,8 @@
 ![](https://skillicons.dev/icons?i=python,c,cpp,cs,java,unity,unreal,visualstudio,vscode,docker)
 
 # 現在進めているプログラム
-1. デスクトップマスコットプログラム
+1. タスク自動生成目標達成アプリ
+   🗄 PostgreSQLと🚀 FastAPIバックエンドを用いて制作中。現在はローカル環境(localhost)でしか動かない。<br>
+2. OPEN HACU U 2025 OSAKA 発表作品
+   作品自体は完成済み。Qiitaの記事を執筆中であり、最新バージョンで対応できるように修正中。
    
-   ユーザが選択した任意の画像でデスクトップマスコットを表示させることが出来るようになりました<br>
-   
-
-2. プレイングミュージックプログラム
-   
-   現在は特定の曲しか再生できないが、別の形でどうにかする予定
-
-3. DiscordBOT
-
-   YahooAPIとの組み合わせをすることを考えています
-
