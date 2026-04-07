@@ -1,6 +1,7 @@
 # 私のプロフィール
 
 こんにちは。戸政と申します。
+アイコンはレリ氏(@relief3939)がかいてくれました。ありがとう！
 
 # 使えるプログラミング言語＆プラットフォーム
 ![](https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,unity,unreal,visualstudio,vscode,docker)
