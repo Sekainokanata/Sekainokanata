@@ -2,10 +2,6 @@
 
 こんにちは。戸政と申します。
 
-大体よく使ってる言語は以下のものです。
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Sekainokanata)
-
 # 使えるプログラミング言語＆プラットフォーム
 ![](https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,unity,unreal,visualstudio,vscode,docker)
 
