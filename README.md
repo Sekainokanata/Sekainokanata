@@ -9,7 +9,7 @@
 # 主に取り組んだプロジェクト
 1. OPEN HACK U 2025 KANAZAWA 発表作品<br>
    既にChrome拡張機能ストアに登録済み。<br>
-   ![こちら](https://chromewebstore.google.com/detail/invert-pdf-viewer/klndmcomjnjmcappeiibgklmlhdcihhe?hl=ja)から入手頂けます！
+   [こちら](https://chromewebstore.google.com/detail/invert-pdf-viewer/klndmcomjnjmcappeiibgklmlhdcihhe?hl=ja)から入手頂けます！
    技術スタックはHTML,CSS,JavaScriptです。
 
 3. OPEN HACK U 2025 Frontier 発表作品<br>
@@ -18,6 +18,6 @@
 
 # プログラムの仕組みについて
 
-![私のQiita](https://qiita.com/gazeruorunit)に詳しく解説しているものがあります(ごく一部です)。
+[私のQiita](https://qiita.com/gazeruorunit)に詳しく解説しているものがあります(ごく一部です)。
    
    
